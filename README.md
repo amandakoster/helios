@@ -5,3 +5,5 @@
 Helios uses data from the US Naval Observatory to accurately depict the position of the sun at any location on Earth.
 
 When you begin Helios will show you today's solar data for your current location. You can also enter a city and date to see information for any year between 1700 and 2100.
+
+https://heliossuntracker.herokuapp.com/
